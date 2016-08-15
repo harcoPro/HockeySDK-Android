@@ -20,7 +20,6 @@
     <string name="hockeyapp_update_dialog_message">Показывать информацию о доступных обновлениях?</string>
     <string name="hockeyapp_update_dialog_negative_button">Игнорировать</string>
     <string name="hockeyapp_update_dialog_positive_button">Показать</string>
-    <string name="hockeyapp_update_version_details_label" translatable="false">%1$s\n%2$s - %3$s</string>
 
     <!-- Expiry Info -->
     <string name="hockeyapp_expiry_info_title">Сборка истекла</string>
